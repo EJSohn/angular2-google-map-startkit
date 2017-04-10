@@ -1,6 +1,8 @@
 # MyMapsProject
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.0.0.
+![myimage-alt-tag](http://cfile9.uf.tistory.com/image/236D4F4D58EB75AE103866)
+
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.0.0 by EJSohn.
 
 ## Development server
 
